@@ -1,0 +1,39 @@
+{
+  "name": "webpoint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "NODE_ENV=production node app.js",
+    "dev": "npx supervisor app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manol Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "compression": "^1.7.4",
+    "depd": "^2.0.0",
+    "dotenv": "^8.2.0",
+    "encodeurl": "^1.0.2",
+    "escape-html": "^1.0.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "express-router": "0.0.1",
+    "googleapis": "^44.0.0",
+    "helmet": "^3.21.1",
+    "heroku": "^7.22.7",
+    "http-proxy-agent": "^2.1.0",
+    "knex": "^0.16.3",
+    "logger": "0.0.1",
+    "merge-descriptors": "^1.0.1",
+    "ms": "^2.1.2",
+    "nodemailer": "^5.1.1",
+    "nodemon": "^1.19.3",
+    "npm": "^6.12.0",
+    "pg": "^7.9.0",
+    "pm2": "^3.5.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {}
+}

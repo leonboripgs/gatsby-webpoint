@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="50" width="50" x="0px" y="0px"
+	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{font-family:'HollowPoint3D';}
+	.st2{font-size:210px;}
+	.st3{fill:#31A5D3;}
+	.st4{fill:#238ECA;}
+	.st5{font-size:176px;}
+</style>
+<g>
+	
+		<radialGradient id="SVGID_1_" cx="990.5582" cy="488.4121" r="314.127" fx="1221.2054" fy="574.0903" gradientTransform="matrix(0.9564 -0.2919 0.2919 0.9564 -97.4676 294.7465)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0.7388" style="stop-color:#FFFFFF;stop-opacity:0"/>
+		<stop  offset="0.7547" style="stop-color:#FDFEFF;stop-opacity:0.2471"/>
+		<stop  offset="0.764" style="stop-color:#F4FBFE;stop-opacity:0.3914"/>
+		<stop  offset="0.7716" style="stop-color:#E6F5FC;stop-opacity:0.5092"/>
+		<stop  offset="0.7782" style="stop-color:#D2EDF9;stop-opacity:0.6129"/>
+		<stop  offset="0.7843" style="stop-color:#B8E3F5;stop-opacity:0.7071"/>
+		<stop  offset="0.7899" style="stop-color:#98D7F1;stop-opacity:0.7946"/>
+		<stop  offset="0.7952" style="stop-color:#72C8EC;stop-opacity:0.8769"/>
+		<stop  offset="0.8001" style="stop-color:#48B7E6;stop-opacity:0.9529"/>
+		<stop  offset="0.8031" style="stop-color:#29ABE2"/>
+		<stop  offset="0.804" style="stop-color:#46B6E6;stop-opacity:0.9672"/>
+		<stop  offset="0.8057" style="stop-color:#76C9EC;stop-opacity:0.9047"/>
+		<stop  offset="0.8074" style="stop-color:#A0DAF2;stop-opacity:0.8405"/>
+		<stop  offset="0.8092" style="stop-color:#C3E7F7;stop-opacity:0.7757"/>
+		<stop  offset="0.8109" style="stop-color:#DDF2FA;stop-opacity:0.7099"/>
+		<stop  offset="0.8127" style="stop-color:#F0F9FD;stop-opacity:0.643"/>
+		<stop  offset="0.8146" style="stop-color:#FBFEFE;stop-opacity:0.574"/>
+		<stop  offset="0.8165" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
+		<stop  offset="0.8304" style="stop-color:#0A8AF1"/>
+		<stop  offset="0.835" style="stop-color:#04CDF6"/>
+		<stop  offset="0.868" style="stop-color:#47E8EA"/>
+		<stop  offset="0.9569" style="stop-color:#0A8AF1"/>
+	</radialGradient>
+	<circle class="st0" cx="993.8" cy="474" r="281"/>
+</g>
+<g>
+	<g>
+		<text transform="matrix(1 0 0 1 842.7108 453.1766)" class="st1 st2">Web</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 841.7108 449.1766)" class="st3 st1 st2">Web</text>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 847.7108 583.0641)" class="st4 st1 st5">Point</text>
+</svg>

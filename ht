@@ -1,0 +1,5 @@
+PassengerBaseURI /
+PassengerAppRoot /home/jameswilson/myapp
+
+PassengerAppType node
+PassengerStartupFile app.js

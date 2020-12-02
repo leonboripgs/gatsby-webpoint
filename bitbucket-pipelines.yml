@@ -1,0 +1,18 @@
+# This is a sample build configuration for JavaScript.
+# Check our guides at https://confluence.atlassian.com/x/14UWN for more examples.
+# Only use spaces to indent your .yml configuration.
+# -----
+# You can specify a custom docker image from Docker Hub as your build environment.
+image: node:10
+# http://dokku.viewdocs.io/dokku/deployment/application-deployment/
+pipelines:
+  branches:
+    master:
+      - step:
+          script:
+            - eval `ssh-agent`
+            - chmod 600 ./deploy_keys/key
+            - ssh-add -k ./deploy_keys/key
+            - git remote add dokku dokku@159.65.186.172:webpoint.io
+            - ssh-keyscan -H 159.65.186.172 >> ~/.ssh/known_hosts
+            - git push dokku master
